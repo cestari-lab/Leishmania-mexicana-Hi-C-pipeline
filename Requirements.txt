@@ -1,0 +1,10 @@
+# Python packages for steps 3-8 (install into the venv set in config.sh: PAIRTOOLS_ENV)
+#   module load python/3.11
+#   python -m venv ~/ENV_pairtools && source ~/ENV_pairtools/bin/activate
+#   pip install -r envs/requirements.txt
+pairtools
+cooler
+hicexplorer
+h5py
+numpy
+statsmodels
