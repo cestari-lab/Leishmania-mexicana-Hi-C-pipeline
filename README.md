@@ -3,6 +3,7 @@
 A SLURM pipeline that takes paired-end Hi-C reads from *L. mexicana* M379 all the way to depth-matched, KR-balanced 5 kb contact matrices, one per condition.
 
 Cestari Lab · McGill University · Lissa Cruz-Saavedra
+
 **Conditions** (3 biological replicates each): `WT`, `CAS9` (cas9_T7), `DAC4`, `DAC4_ab`, `DAC3`, `DAC3_ab`
 
 ## Workflow
